@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.647c24ed.chunk.css",
+    "main.js": "/static/js/main.941e0b8a.chunk.js",
+    "main.js.map": "/static/js/main.941e0b8a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc4f9221.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc4f9221.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8a35da32.chunk.js": "/static/js/2.8a35da32.chunk.js",
+    "static/js/2.8a35da32.chunk.js.map": "/static/js/2.8a35da32.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.254c49122a1b1c7e27b728ade5da2796.js": "/precache-manifest.254c49122a1b1c7e27b728ade5da2796.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.647c24ed.chunk.css.map": "/static/css/main.647c24ed.chunk.css.map",
+    "static/js/2.8a35da32.chunk.js.LICENSE.txt": "/static/js/2.8a35da32.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/airp.63452e77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc4f9221.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8a35da32.chunk.js",
+    "static/css/main.647c24ed.chunk.css",
+    "static/js/main.941e0b8a.chunk.js"
+  ]
+}
